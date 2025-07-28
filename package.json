@@ -1,0 +1,16 @@
+{
+  "name": "print-hub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Front‑end and serverless backend for Print‑Hub 3D component analyzer.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^13.4.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
